@@ -1,0 +1,6 @@
+Mozzarella - $0.70;
+Cheddar - $0.55;
+Feta cheese - $0.88;
+Pepper jack - $0.60;
+American cheese - $0.40;
+Blue cheese - $0.90;

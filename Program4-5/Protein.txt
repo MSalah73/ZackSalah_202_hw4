@@ -1,0 +1,6 @@
+Pepperoni - $1.30;
+Italian sausage - $1.40;
+Beef - $1.60;
+Chicken - $1.20;
+Philly stack - $1.65;
+Bacon - $1.45;
