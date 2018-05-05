@@ -3,7 +3,7 @@
 ## Technologies
 
    * **Language**: *Java*
-   * **Data Structures**: *BST and Doubly Linked List
+   * **Data Structures**: *BST and Doubly Linked List*
    * **Concepts**: *OOP, Abstract base class, Virtual functions*
 
 # Installation
